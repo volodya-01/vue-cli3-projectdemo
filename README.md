@@ -67,11 +67,11 @@ axios.get("/api/singer").then((data)=>{
 })
 ### 注意：vue cli3.0 public 文件夹才是静态资源文件,修改了vue.config.js需要重启项目。
 
-See [Configuration Reference](https://blog.csdn.net/weixin_39773631/article/details/92844592).
+See [vue cli3.0访问本地JSON文件](https://blog.csdn.net/weixin_39773631/article/details/92844592).
 
-See [Configuration Reference](https://blog.csdn.net/qq_42231156/article/details/88225660).
+See [Vue-cli3.0项目下axios请求本地json文件的数据](https://blog.csdn.net/qq_42231156/article/details/88225660).
 
-See [Configuration Reference](https://blog.csdn.net/lfcss/article/details/81055847).
+See [vue新vue-cli3环境配置和模拟json数据](https://blog.csdn.net/lfcss/article/details/81055847).
 
 
 
